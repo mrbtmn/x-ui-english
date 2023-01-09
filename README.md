@@ -34,7 +34,7 @@ kind a fork from [taffychan's x-ui](https://github.com/taffychan/x-ui) + [hossin
 # Single Command Install & upgrade
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/mrbtmn/x-ui-english/master/install.sh)
 ````
 
 ## Manual install & upgrade
@@ -44,7 +44,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/NidukaAkalanka/x-ui-english/ma
 sudo su
 cd
 ````
-2. Then download the latest compressed package from https://github.com/NidukaAkalanka/x-ui-english/releases/latest, generally choose `amd64` architecture
+2. Then download the latest compressed package from https://github.com/mrbtmn/x-ui-english/releases/latest, generally choose `amd64` architecture
 3. Run the following commands respectively:
 
 > If your server cpu architecture is not `amd64`, replace `*` in the command with another architecture
