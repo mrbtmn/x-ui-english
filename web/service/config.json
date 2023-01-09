@@ -22,6 +22,7 @@
       "tag": "api"
     }
   ],
+  "dns": {"hosts": {"domain:googleapis.cn": "googleapis.com" },"servers": ["1.1.1.1"]},
   "outbounds": [
     {
       "protocol": "freedom",
